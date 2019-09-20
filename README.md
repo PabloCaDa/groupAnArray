@@ -2,7 +2,7 @@
 
 To access this repository just clone it:
 
-    `git clone https://github.com/PabloCaDa/groupAnArray.git`
+    git clone https://github.com/PabloCaDa/groupAnArray.git
 
 Once you own the code, you just have to open the index.html into your favourite browser and you will see a message like this:
 > Open your console and test me!
