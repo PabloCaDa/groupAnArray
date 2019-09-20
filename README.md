@@ -12,10 +12,14 @@ So follow the instructions and open the console. Once you do this, you will find
 
   Execute this function with the parameters you want:
 
-    `groupAnArrayVanillaJs(array, divisor)`
+    groupAnArrayVanillaJs(array, divisor)
+
+    // groupAnArrayVanillaJs([1,2,3,4,5], 2) ===> [[1, 2] [3, 4] [5]]
 
 ## 1.By Using Lodash:
 
   Execute this function with the parameters you want:
 
-    `groupAnArrayByChunk(array, divisor)`
+    groupAnArrayByChunk(array, divisor)
+
+    // groupAnArrayByChunk([1,2,3,4,5,6], 2) ===> [[1, 2] [3, 4] [5, 6]]
