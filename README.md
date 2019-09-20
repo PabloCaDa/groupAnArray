@@ -8,7 +8,7 @@ Once you own the code, you just have to open the index.html into your favourite 
 
 So follow the instructions and open the console. Once you do this, you will find two ways to solve the problem by executing two different methods.
 
-## 1.By Using Vanilla JS:
+## 1. By Using Vanilla JS:
 
   Execute this function with the parameters you want:
 
@@ -16,7 +16,7 @@ So follow the instructions and open the console. Once you do this, you will find
 
     // groupAnArrayVanillaJs([1,2,3,4,5], 2) ===> [[1, 2] [3, 4] [5]]
 
-## 1.By Using Lodash:
+## 1. By Using Lodash:
 
   Execute this function with the parameters you want:
 
