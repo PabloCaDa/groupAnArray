@@ -16,7 +16,7 @@ So follow the instructions and open the console. Once you do this, you will find
 
     // groupAnArrayVanillaJs([1,2,3,4,5], 2) ===> [[1, 2] [3, 4] [5]]
 
-## 1. By Using Lodash:
+## 2. By Using Lodash:
 
   Execute this function with the parameters you want:
 
