@@ -8,12 +8,12 @@ Once you own the code, you just have to open the index.html into your favourite 
 
 So follow the instructions and open the console. Once you do this, you will find two ways to solve the problem by executing two different methods.
 
-##1. By Using Vanilla JS:
+1. By Using Vanilla JS:
 
   Execute this function with the parameters you want:
     `groupAnArrayVanillaJs(array, divisor)`
 
-##2. By Using Lodash:
+2. By Using Lodash:
 
   Execute this function with the parameters you want:
     `groupAnArrayByChunk(array, divisor)`
